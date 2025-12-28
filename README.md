@@ -41,4 +41,8 @@ Propagates distance values to all reachable cells using BFS
 - Language: C++
 - Graphics: Raylib *(Make sure Raylib is properly installed and linked before building.)*
 
+## Conclusion 
+This project is inspired by maze-solving techniques used in autonomous robots, where the system first explores the environment 
+to understand the maze layout and then determines an efficient path to the goal
+
 **Soon I'll Implement this in my MazeMouse Robot**
