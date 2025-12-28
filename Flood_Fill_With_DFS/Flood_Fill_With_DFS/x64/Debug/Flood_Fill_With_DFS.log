@@ -1,0 +1,18 @@
+﻿  Flood_Fill_With_DFS.cpp
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(73,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(73,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(73,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(73,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(175,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(175,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(175,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(175,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(188,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(188,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(257,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(257,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(257,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\Flood_Fill_With_DFS\Flood_Fill_With_DFS.cpp(257,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Flood_Fill_With_DFS.vcxproj -> C:\Users\Rad_8\Desktop\C++\Flood_Fill_With_DFS\x64\Debug\Flood_Fill_With_DFS.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
