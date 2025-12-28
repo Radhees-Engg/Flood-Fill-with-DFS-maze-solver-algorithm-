@@ -2,7 +2,6 @@
 Maze solver using DFS exploration + Flood Fill (BFS) shortest path extraction with real-time visualization in Raylib.
 
 This project implements a two-phase maze solving system with real-time visualization using Raylib.
-
 The solver does not blindly search for the shortest path.
 Instead, it first fully explores the maze once using DFS, records structural knowledge (visited paths and dead ends), and then computes the shortest path using Flood Fill (BFS) without re-exploration.
 
