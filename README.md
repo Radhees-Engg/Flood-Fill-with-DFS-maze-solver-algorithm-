@@ -39,7 +39,7 @@ Propagates distance values to all reachable cells using BFS
 - Raylib: Blue → Walls, Green → Visited cells, Pink → End cell, Red → Dead ends, Gold → Final shortest path, Gray circle → Bot
 
 ## Dependencies
-Language: C++
-Graphics: Raylib (Make sure Raylib is properly installed and linked before building.)
+- Language: C++
+- Graphics: Raylib *(Make sure Raylib is properly installed and linked before building.)*
 
 **Soon I'll Implement this in my MazeMouse Robot**
