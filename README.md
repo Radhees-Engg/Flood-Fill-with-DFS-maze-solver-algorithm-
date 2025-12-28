@@ -35,8 +35,8 @@ Propagates distance values to all reachable cells using BFS
 - The final path is rendered as a golden path
 
 ## Visualization
-Maze: 0 → PATH, 1 → BOT, 9 → END, 8 → WALL, 3 → DEAD_END, 2 → VISITED
-Raylib: Blue → Walls, Green → Visited cells, Pink → End cell, Red → Dead ends, Gold → Final shortest path, Gray circle → Bot
+- Maze: 0 → PATH, 1 → BOT, 9 → END, 8 → WALL, 3 → DEAD_END, 2 → VISITED
+- Raylib: Blue → Walls, Green → Visited cells, Pink → End cell, Red → Dead ends, Gold → Final shortest path, Gray circle → Bot
 
 ## Dependencies
 Language: C++
