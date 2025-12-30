@@ -46,3 +46,6 @@ This project is inspired by maze-solving techniques used in autonomous robots, w
 to understand the maze layout and then determines an efficient path to the goal
 
 **Soon I'll Implement this in my MazeMouse Robot**
+
+
+**VIDEO:** https://www.linkedin.com/posts/radhees-bala-2a08652b4_autonomous-maze-solving-algorithm-developed-activity-7410948426101665792-UD0w?utm_source=share&utm_medium=member_android&rcm=ACoAAEuW6VgBPYjPBeU6XmIGHNi1sBbR9MCAjSo
